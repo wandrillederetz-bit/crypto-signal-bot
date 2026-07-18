@@ -8,7 +8,26 @@
 
 import fs from "fs";
 
-const SYMBOLS = ["BTCUSDT", "ETHUSDT", "SOLUSDT"]; // modifie cette liste si besoin
+const SYMBOLS = [
+  // Majors
+  "BTCUSDT", "ETHUSDT", "BNBUSDT", "XRPUSDT", "SOLUSDT", "ADAUSDT", "DOGEUSDT", "TRXUSDT", "TONUSDT", "AVAXUSDT",
+  // Layer 1
+  "DOTUSDT", "ATOMUSDT", "NEARUSDT", "APTUSDT", "SUIUSDT", "ALGOUSDT", "EGLDUSDT", "FTMUSDT", "ICPUSDT", "HBARUSDT",
+  // Layer 2 / Scaling
+  "MATICUSDT", "ARBUSDT", "OPUSDT", "IMXUSDT", "STRKUSDT",
+  // DeFi
+  "UNIUSDT", "AAVEUSDT", "MKRUSDT", "LDOUSDT", "CRVUSDT", "COMPUSDT", "SNXUSDT", "SUSHIUSDT", "1INCHUSDT",
+  // Meme coins
+  "SHIBUSDT", "PEPEUSDT", "FLOKIUSDT", "BONKUSDT", "WIFUSDT",
+  // AI / Data
+  "FETUSDT", "RENDERUSDT", "GRTUSDT", "OCEANUSDT", "AGIXUSDT",
+  // Gaming / Metaverse
+  "SANDUSDT", "MANAUSDT", "AXSUSDT", "GALAUSDT", "ENJUSDT",
+  // Autres majors
+  "LTCUSDT", "LINKUSDT", "BCHUSDT", "ETCUSDT", "XLMUSDT", "VETUSDT", "FILUSDT", "THETAUSDT",
+  // Proxy matières premières
+  "PAXGUSDT",
+]; // liste élargie (~58 marchés crypto). Voir note ci-dessus sur les limites de "tous les marchés".
 const STATE_FILE = "state.json";
 
 const RISK_CONFIG = {
