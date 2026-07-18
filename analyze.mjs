@@ -60,7 +60,7 @@ function formatMessage(symbol, a) {
 // ==================== ANALYSE TECHNIQUE (identique à la page mobile) ====================
 
 async function fetchCandles(symbol, interval = "15m", limit = 150) {
-  const url = `https://api.binance.com/api/v3/klines?symbol=${symbol}&interval=${interval}&limit=${limit}`;
+  const url = `https://data-api.binance.vision/api/v3/klines?symbol=${symbol}&interval=${interval}&limit=${limit}`;
   const resp = await fetch(url);
   if (!resp.ok) throw new Error(`Erreur API Binance (${resp.status})`);
   const raw = await resp.json();
