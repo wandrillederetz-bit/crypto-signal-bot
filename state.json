@@ -10,7 +10,7 @@
   "TONUSDT": "WAIT",
   "AVAXUSDT": "WAIT",
   "DOTUSDT": "WAIT",
-  "ATOMUSDT": "WAIT",
+  "ATOMUSDT": "BUY",
   "NEARUSDT": "WAIT",
   "APTUSDT": "WAIT",
   "SUIUSDT": "WAIT",
@@ -56,5 +56,5 @@
   "VETUSDT": "WAIT",
   "FILUSDT": "WAIT",
   "THETAUSDT": "WAIT",
-  "PAXGUSDT": "BUY"
+  "PAXGUSDT": "WAIT"
 }
