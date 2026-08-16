@@ -1,5 +1,5 @@
 {
-  "BTCUSDT": "WAIT",
+  "BTCUSDT": "BUY",
   "ETHUSDT": "WAIT",
   "SOLUSDT": "WAIT",
   "BNBUSDT": "WAIT",
@@ -24,7 +24,7 @@
   "OPUSDT": "WAIT",
   "IMXUSDT": "WAIT",
   "STRKUSDT": "WAIT",
-  "UNIUSDT": "BUY",
+  "UNIUSDT": "WAIT",
   "AAVEUSDT": "WAIT",
   "MKRUSDT": "WAIT",
   "LDOUSDT": "WAIT",
