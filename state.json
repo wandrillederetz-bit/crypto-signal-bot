@@ -17,7 +17,7 @@
   "ALGOUSDT": "WAIT",
   "EGLDUSDT": "WAIT",
   "FTMUSDT": "WAIT",
-  "ICPUSDT": "WAIT",
+  "ICPUSDT": "BUY",
   "HBARUSDT": "WAIT",
   "MATICUSDT": "WAIT",
   "ARBUSDT": "WAIT",
@@ -29,7 +29,7 @@
   "MKRUSDT": "WAIT",
   "LDOUSDT": "WAIT",
   "CRVUSDT": "WAIT",
-  "COMPUSDT": "WAIT",
+  "COMPUSDT": "BUY",
   "SNXUSDT": "WAIT",
   "SUSHIUSDT": "WAIT",
   "1INCHUSDT": "WAIT",
@@ -54,7 +54,7 @@
   "ETCUSDT": "WAIT",
   "XLMUSDT": "WAIT",
   "VETUSDT": "WAIT",
-  "FILUSDT": "WAIT",
+  "FILUSDT": "BUY",
   "THETAUSDT": "WAIT",
   "PAXGUSDT": "WAIT"
 }
