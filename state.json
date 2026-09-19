@@ -1,7 +1,7 @@
 {
   "BTCUSDT": "WAIT",
   "ETHUSDT": "WAIT",
-  "SOLUSDT": "SELL",
+  "SOLUSDT": "WAIT",
   "BNBUSDT": "WAIT",
   "XRPUSDT": "WAIT",
   "ADAUSDT": "WAIT",
@@ -27,7 +27,7 @@
   "UNIUSDT": "WAIT",
   "AAVEUSDT": "WAIT",
   "MKRUSDT": "WAIT",
-  "LDOUSDT": "WAIT",
+  "LDOUSDT": "BUY",
   "CRVUSDT": "WAIT",
   "COMPUSDT": "WAIT",
   "SNXUSDT": "WAIT",
