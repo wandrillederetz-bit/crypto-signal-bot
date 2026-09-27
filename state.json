@@ -1,12 +1,12 @@
 {
-  "BTCUSDT": "BUY",
+  "BTCUSDT": "WAIT",
   "ETHUSDT": "WAIT",
   "SOLUSDT": "WAIT",
   "BNBUSDT": "WAIT",
   "XRPUSDT": "WAIT",
   "ADAUSDT": "WAIT",
   "DOGEUSDT": "WAIT",
-  "TRXUSDT": "WAIT",
+  "TRXUSDT": "SELL",
   "TONUSDT": "WAIT",
   "AVAXUSDT": "WAIT",
   "DOTUSDT": "WAIT",
@@ -54,7 +54,7 @@
   "ETCUSDT": "WAIT",
   "XLMUSDT": "WAIT",
   "VETUSDT": "WAIT",
-  "FILUSDT": "WAIT",
+  "FILUSDT": "BUY",
   "THETAUSDT": "WAIT",
   "PAXGUSDT": "WAIT"
 }
