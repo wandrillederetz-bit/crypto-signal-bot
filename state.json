@@ -55,6 +55,6 @@
   "XLMUSDT": "WAIT",
   "VETUSDT": "WAIT",
   "FILUSDT": "WAIT",
-  "THETAUSDT": "SELL",
+  "THETAUSDT": "WAIT",
   "PAXGUSDT": "WAIT"
 }
