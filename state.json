@@ -24,7 +24,7 @@
   "OPUSDT": "WAIT",
   "IMXUSDT": "WAIT",
   "STRKUSDT": "WAIT",
-  "UNIUSDT": "SELL",
+  "UNIUSDT": "WAIT",
   "AAVEUSDT": "WAIT",
   "MKRUSDT": "WAIT",
   "LDOUSDT": "WAIT",
@@ -56,5 +56,5 @@
   "VETUSDT": "WAIT",
   "FILUSDT": "WAIT",
   "THETAUSDT": "WAIT",
-  "PAXGUSDT": "WAIT"
+  "PAXGUSDT": "SELL"
 }
